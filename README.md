@@ -13,8 +13,7 @@ Point Average (CGPA). Automating the process of
 converting numerical scores into grade points and 
 determining the final academic classification.
 
-
-2. SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
+SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
 
 PHASE 1: REQUIREMENTS ANALYSIS
 The primary objective was to create a tool that:
